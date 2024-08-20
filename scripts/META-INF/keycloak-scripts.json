@@ -1,0 +1,9 @@
+{
+    "mappers": [
+        {
+            "name": "Organization UUIDs",
+            "fileName": "organization-uuid-claim.js",
+            "description": "Adds the UUID's of all organizations the user is a member of."
+        }
+    ]
+}

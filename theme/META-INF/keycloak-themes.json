@@ -1,0 +1,6 @@
+{
+  "themes": [{
+    "name" : "nedbase",
+    "types": [ "login" ]
+  }]
+}
